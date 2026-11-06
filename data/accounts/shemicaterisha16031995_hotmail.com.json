@@ -1,0 +1,21 @@
+{
+  "email": "shemicaterisha16031995@hotmail.com",
+  "password": "Lp2!jfCB3Dui",
+  "firstName": "Michael",
+  "lastName": "Anderson",
+  "createdAt": "2026-11-06T03:42:10.303Z",
+  "adsUser": "k1iqrttj",
+  "status": "done_unverified",
+  "signupAt": "2026-11-06T03:44:28Z",
+  "instanceId": "01a1aef9-1b5c-72f8-8163-39f1ba71e019",
+  "instanceName": "rp-vxt2m9",
+  "endpoint": "pr.oxylabs.io:7777",
+  "username": "customer-resi_4705a24b-sessid-0523433670-sesstime-10",
+  "passwordProxy": "M_reZU3Rw+nX",
+  "curl": "curl -x pr.oxylabs.io:7777 -U \"customer-resi_4705a24b-sessid-0523433670-sesstime-10:M_reZU3Rw+nX\" https://ip.oxylabs.io/location",
+  "target": "https://ip.oxylabs.io/location",
+  "dashboardUrl": "https://dashboard.oxylabs.io/en/instances/01a1aef9-1b5c-72f8-8163-39f1ba71e019/overview",
+  "finishedAt": "2026-11-06T03:49:24.778Z",
+  "note": "Proxy trả 407 (KYC \"Verify your account\" đang chờ trên dashboard). Instance vẫn Enabled; xác minh tài khoản rồi thử lại.",
+  "secondInstance": "rp-osnl8q (click treo trước đó có tạo thêm 1 instance; dùng chung $5 credit)"
+}

@@ -1,0 +1,19 @@
+{
+  "email": "bismakelsy4533@hotmail.com",
+  "password": "Zq7$mK2#vR9t",
+  "firstName": "Samuel",
+  "lastName": "Wilson",
+  "createdAt": "2026-11-06T03:36:23.038Z",
+  "adsUser": "k1iqrouw",
+  "status": "done",
+  "signupAt": "2026-11-06T03:37:16.683Z",
+  "instanceId": "01a1aeef-2920-7000-a935-59d39466061f",
+  "instanceName": "rp-xyao4k",
+  "endpoint": "pr.oxylabs.io:7777",
+  "username": "customer-resi_7f366968-sessid-0229191867-sesstime-10",
+  "target": "https://ip.oxylabs.io/location",
+  "curl": "curl -x pr.oxylabs.io:7777 -U \"customer-resi_7f366968-sessid-0229191867-sesstime-10:CA+6_a~dBS+i\" https://ip.oxylabs.io/location",
+  "dashboardUrl": "https://dashboard.oxylabs.io/en/instances/01a1aeef-2920-7000-a935-59d39466061f/overview",
+  "finishedAt": "2026-11-06T03:37:56.955Z",
+  "passwordProxy": "CA+6_a~dBS+i"
+}

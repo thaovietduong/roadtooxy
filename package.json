@@ -1,0 +1,12 @@
+{
+  "name": "oxylabs-register",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Đăng ký tài khoản Oxylabs trial, tạo Residential Proxy instance và xuất curl/credentials",
+  "type": "module",
+  "scripts": {
+    "start": "node run.mjs",
+    "register": "node run.mjs --count 1"
+  },
+  "engines": { "node": ">=22.13" }
+}

@@ -1,0 +1,19 @@
+{
+  "email": "ashalaaviraj2790@hotmail.com",
+  "password": "Kh6^TL4idg9g",
+  "firstName": "James",
+  "lastName": "Miller",
+  "createdAt": "2026-11-06T03:31:28.414Z",
+  "signupAt": "2026-11-06T03:31:44Z",
+  "adsUser": "k1iqri3o",
+  "status": "done",
+  "instanceId": "01a1aeec-85a4-7107-a5ec-35874c889375",
+  "instanceName": "rp-sxb3z1",
+  "endpoint": "pr.oxylabs.io:7777",
+  "username": "customer-resi_b1885079-sessid-0191145831-sesstime-10",
+  "passwordProxy": "Es=J8pw~tnXq",
+  "target": "https://ip.oxylabs.io/location",
+  "curl": "curl -x pr.oxylabs.io:7777 -U \"customer-resi_b1885079-sessid-0191145831-sesstime-10:Es=J8pw~tnXq\" https://ip.oxylabs.io/location",
+  "dashboardUrl": "https://dashboard.oxylabs.io/en/instances/01a1aeec-85a4-7107-a5ec-35874c889375/overview",
+  "finishedAt": "2026-11-06T03:36:22.035Z"
+}
